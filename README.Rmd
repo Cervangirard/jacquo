@@ -18,6 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/jacquo)](https://CRAN.R-project.org/package=jacquo)
+[![CircleCI build status](https://circleci.com/gh/Cervangirard/jacquo.svg?style=svg)](https://circleci.com/gh/Cervangirard/jacquo)
 <!-- badges: end -->
 
 The goal of jacquo is to ...

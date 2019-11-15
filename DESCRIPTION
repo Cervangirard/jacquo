@@ -1,16 +1,16 @@
 Package: jacquo
-Title: What the Package Does (One Line, Title Case)
+Title: Add content on social network
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Cervan",
+           family = "Girard",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "cervan@thinkr.fr",
+           comment = c(ORCID = "0000-0002-4816-4624"))
+Description: Add content on social networks easily like pinterest or twitter.
 License: GPL-3
 Suggests: 
-    testthat
+    testthat (>= 2.1.0)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
